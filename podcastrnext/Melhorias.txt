@@ -1,0 +1,5 @@
+Melhorias: 
+- [] Fazer o projeto ficar responsivo!
+- [] Transformar isto em PWA: existe o next-pwa.
+- [] Tema Dark: Colocar tema dark. 
+- [] Mais fundo: Adicionar Elektron para transformar em app desktop. 
